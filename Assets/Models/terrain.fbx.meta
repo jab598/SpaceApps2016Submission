@@ -9,22 +9,42 @@ ModelImporter:
     100002: Landscape_MeshPart0
     100004: Landscape_MeshPart1
     100006: Landscape_MeshPart2
+    100008: terrain_MeshPart0
+    100010: terrain_MeshPart1
+    100012: Landscape_1_MeshPart0
+    100014: Landscape_1_MeshPart1
     400000: //RootNode
     400002: Landscape_MeshPart0
     400004: Landscape_MeshPart1
     400006: Landscape_MeshPart2
+    400008: terrain_MeshPart0
+    400010: terrain_MeshPart1
+    400012: Landscape_1_MeshPart0
+    400014: Landscape_1_MeshPart1
     2300000: //RootNode
     2300002: Landscape_MeshPart0
     2300004: Landscape_MeshPart1
     2300006: Landscape_MeshPart2
+    2300008: terrain_MeshPart0
+    2300010: terrain_MeshPart1
+    2300012: Landscape_1_MeshPart0
+    2300014: Landscape_1_MeshPart1
     3300000: //RootNode
     3300002: Landscape_MeshPart0
     3300004: Landscape_MeshPart1
     3300006: Landscape_MeshPart2
+    3300008: terrain_MeshPart0
+    3300010: terrain_MeshPart1
+    3300012: Landscape_1_MeshPart0
+    3300014: Landscape_1_MeshPart1
     4300000: Landscape
     4300002: Landscape_MeshPart0
     4300004: Landscape_MeshPart1
     4300006: Landscape_MeshPart2
+    4300008: terrain_MeshPart0
+    4300010: terrain_MeshPart1
+    4300012: Landscape_1_MeshPart0
+    4300014: Landscape_1_MeshPart1
     9500000: //RootNode
   materials:
     importMaterials: 1
