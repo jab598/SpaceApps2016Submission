@@ -8,7 +8,7 @@ public class Buildings : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		bs = GameObject.FindObjectsOfType<Building> ();
+		//bs = GameObject.FindObjectsOfType<Building> ();
 	}
 	
 	// Update is called once per frame

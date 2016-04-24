@@ -13,6 +13,9 @@ public class Building : MonoBehaviour {
 	public float prodCost;
 	public float researchCost;
 
+	public bool isResearched = false;
+	public bool isPurchased = false;
+
 	// Use this for initialization
 	void Start () {
 	
